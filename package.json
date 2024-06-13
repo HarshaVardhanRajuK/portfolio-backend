@@ -1,11 +1,11 @@
 {
-  "name": "protfoliobackend",
+  "name": "portfoliobackend",
   "version": "1.0.0",
-  "description": "Welcome to my portfolio website! This is a showcase of my skills, projects, and a bit about myself.",
+  "description": "",
   "main": "contact.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon contact.js"
+    "dev": "nodemon contact.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
